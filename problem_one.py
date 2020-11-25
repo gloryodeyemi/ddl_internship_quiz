@@ -9,8 +9,6 @@ import sys
 def simpleArraySum(ar):
     #
     # Write your code here.
-    n = len(ar)
-    n_element = ar
     arraySum = 0
     for element in ar:
         arraySum += element
